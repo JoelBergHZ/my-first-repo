@@ -1,0 +1,20 @@
+# 依赖与缓存，不需要进仓库
+node_modules/
+dist/
+build/
+.venv/
+__pycache__/
+
+# 密钥与本地配置，绝对不能提交
+.env
+.env.local
+*.pem
+id_rsa
+id_ed25519
+
+# 系统与编辑器杂项
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
