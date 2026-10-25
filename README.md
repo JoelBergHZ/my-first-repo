@@ -7,6 +7,12 @@
 - 验证 Git 与 GitHub 的通道是否正常
 - 作为后续项目的模板（改个名字就能用）
 
+## 仓库信息
+
+- 地址：<https://github.com/JoelBergHZ/my-first-repo>
+- 默认分支：`main`
+- 认证方式：SSH 密钥（走 443 端口）
+
 ## 学到的命令
 
 ```bash
